@@ -1,4 +1,2 @@
 # QuantumultX-Script
-收集Qx脚本订阅
-
-脚本来源于网络
+作者很懒，什么都没有留下
