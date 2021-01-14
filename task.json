@@ -5,6 +5,9 @@
         "0 7 * * * https://raw.githubusercontent.com/ancelee/QuantumultX-Script/main/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png",
         "5 0 * * * https://raw.githubusercontent.com/ancelee/QuantumultX-Script/main/jx_sign.js, tag=京喜签到, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png",
         "40 8 * * * https://raw.githubusercontent.com/ancelee/QuantumultX-Script/main/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png",
+
+		"1 0,8,12,16 * * * https://raw.githubusercontent.com/ancelee/QuantumultX-Script/main/jd_family.js, tag=京东家庭号, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png",
+
         "0 1,6 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png",
         "30 9 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png",
         "30 9 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东派件提醒, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png",
