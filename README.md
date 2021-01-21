@@ -10,6 +10,9 @@
 // 京东CrazyJoy
 /jdcrazyjoy qOlw3IHUqxlMRwtvuHKH3g==&rl2X7KEpoe-SR9zXzZDfl6t9zd5YaBeE
 
+// 签到领现金
+/jdcash Kh80au-7bvkm-Q&eU9YauS3Mv909WqAyXJGgw
+
 
 
 
