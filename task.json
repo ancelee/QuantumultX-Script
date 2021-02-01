@@ -2,6 +2,7 @@
     "name": "Qx Tasks",
     "description": "Ancelee's Qx tasks",
     "task": [
+        "20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 0,6,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js, tag=5G狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "20 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js, tag=京东神仙书院答题, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
         "0 0 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_coupon.js, tag=源头好物红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg",
@@ -45,7 +46,7 @@
         "43 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png",
                 "10-20/5 12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_live.js, tag=京东直播, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png",
         "10 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png",
-        "25 8 * * * https://github.com/LXK9301/jd_scripts/raw/master/jd_daily_egg.js, tag=京东金融-天天提鹅 ,img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png",
+        "25 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js, tag=京东金融-天天提鹅 ,img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png",
 
 
         "0 1,6 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/jd.png",
