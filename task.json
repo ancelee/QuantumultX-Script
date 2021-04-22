@@ -2,6 +2,8 @@
     "name": "Qx Tasks",
     "description": "Ancelee's Qx tasks",
     "task": [
+        "1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨",
+
         "5 3 * * * https://raw.githubusercontent.com/ancelee/QuantumultX-Script/main/jd_xgyl.js, tag=小鸽有礼, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
 
 		"5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_super5g.js, tag=5G超级盲盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
