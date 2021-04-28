@@ -2,6 +2,8 @@
     "name": "Qx Tasks",
     "description": "Ancelee's Qx tasks",
     "task": [
+        "30 20-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=半点红包雨",
+
         "5 8-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_live_lottery_social.js, tag=直播间抽奖（全局）",
         
         "1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨",
