@@ -3,6 +3,7 @@
     "description": "Ancelee's Qx tasks",
     "task": [
         
+        "20 10 * * * https://raw.githubusercontent.com/fangpidedongsun/jd_scripts2/master/jd_gyec.js, tag=工业品爱消除",
         "33 9 * * * https://raw.githubusercontent.com/fangpidedongsun/jd_scripts2/master/jd_friend.js, tag=JOY总动员",
         "0 0 * * * https://raw.githubusercontent.com/pxylen/dog_jd/master/jx_cfdtx.js, tag=财富岛提现",
         "30 20-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=半点红包雨",
