@@ -2,7 +2,8 @@
     "name": "Qx Tasks",
     "description": "Ancelee's Qx tasks",
     "task": [
-        
+        "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js, tag=飞利浦电视成长记",
+        "25 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_oneplus.js, tag=赢一加新品手机",
         "20 10 * * * https://raw.githubusercontent.com/fangpidedongsun/jd_scripts2/master/jd_gyec.js, tag=工业品爱消除",
         "33 9 * * * https://raw.githubusercontent.com/fangpidedongsun/jd_scripts2/master/jd_friend.js, tag=JOY总动员",
         "0 0 * * * https://raw.githubusercontent.com/pxylen/dog_jd/master/jx_cfdtx.js, tag=财富岛提现",
