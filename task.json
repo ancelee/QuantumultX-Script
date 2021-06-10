@@ -2,6 +2,8 @@
     "name": "Qx Tasks",
     "description": "Ancelee's Qx tasks",
     "task": [
+        "4 0 * * * https://raw.githubusercontent.com/ancelee/newScript/main/jd_bean_home.js, tag=测试",
+
         "4 0 * * * https://raw.githubusercontent.com/ancelee/QuantumultX-Script/main/script/jd_carnivalcity_code.js, tag=手机狂欢城助力码",
         "20 9 20-31 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_martin.js, tag=人头马x博朗",
         "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js, tag=飞利浦电视成长记",
